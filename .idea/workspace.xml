@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45d522c2-4939-4bda-9c05-6c5ca5050eab" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/learn_python_book.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lorem_ipsum.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn_python_book.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn_python_book.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,8 +20,8 @@
       <file leaf-file-name="learn_python_book.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/learn_python_book.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            <state relative-caret-position="23">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -305,7 +303,14 @@
       <option name="project" value="LOCAL" />
       <updated>1527656009598</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Continuing with 'Learn python3' book">
+      <created>1527727463268</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1527727463268</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView">
@@ -318,16 +323,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="24" width="1444" height="878" extended-state="7" />
+    <frame x="-2" y="24" width="1444" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49859154" visible="true" weight="0.17148906" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49859154" visible="true" weight="0.17148906" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49400142" weight="0.32963988" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50277776" side_tool="true" weight="0.29240507" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32873276" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.5081157" side_tool="true" weight="0.2923463" />
       <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.49400142" weight="0.32825485" />
-      <window_info anchor="bottom" x="1" y="337" width="1448" height="236" id="Run" order="2" sideWeight="0.49188426" visible="true" weight="0.2923463" />
+      <window_info active="true" anchor="bottom" x="1" y="337" width="1448" height="236" id="Run" order="2" sideWeight="0.49188426" visible="true" weight="0.2923463" />
       <window_info id="Structure" order="1" sideWeight="0.5009242" side_tool="true" weight="0.1905434" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49400142" weight="0.32963988" />
       <window_info id="Favorites" order="2" sideWeight="0.50140846" side_tool="true" weight="0.2505293" />
@@ -376,7 +381,8 @@
     <MESSAGE value="Playing around" />
     <MESSAGE value="Finished the book" />
     <MESSAGE value="Started following Muhammad Essa course" />
-    <option name="LAST_COMMIT_MESSAGE" value="Started following Muhammad Essa course" />
+    <MESSAGE value="Continuing with 'Learn python3' book" />
+    <option name="LAST_COMMIT_MESSAGE" value="Continuing with 'Learn python3' book" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ex.txt">
@@ -473,8 +479,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learn_python_book.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        <state relative-caret-position="23">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>

@@ -1,4 +1,1 @@
-words = "amr"
-file = open(b'\xd8\xb9\xd9\x85\xd8\xb1\xd9\x88', 'wb')
-file.write(b'\xd8\xb9\xd9\x85\xd8\xb1\xd9\x88')
-file.close()
+‫‪#‬‬ ‫‪-*-‬‬ ‫‪coding:Utf-8‬‬ ‫‪-*-‬‬
