@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="45d522c2-4939-4bda-9c05-6c5ca5050eab" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyQt/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyGTK/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -60,6 +59,7 @@
         <option value="$PROJECT_DIR$/oop/index.py" />
         <option value="$PROJECT_DIR$/OOP/main.py" />
         <option value="$PROJECT_DIR$/PyQt/main.py" />
+        <option value="$PROJECT_DIR$/PyGTK/main.py" />
       </list>
     </option>
   </component>
@@ -370,7 +370,14 @@
       <option name="project" value="LOCAL" />
       <updated>1529895225750</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Moving to PyGTK">
+      <created>1529899255706</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1529899255706</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TodoView">
@@ -448,7 +455,8 @@
     <MESSAGE value="End of learn python3 book" />
     <MESSAGE value="OOP workout" />
     <MESSAGE value="Started with PyQt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Started with PyQt" />
+    <MESSAGE value="Moving to PyGTK" />
+    <option name="LAST_COMMIT_MESSAGE" value="Moving to PyGTK" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PyGTK/main.py">
