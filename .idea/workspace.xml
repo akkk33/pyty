@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="45d522c2-4939-4bda-9c05-6c5ca5050eab" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyGTK/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyGTK/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,7 +19,11 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PyGTK/main.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -118,7 +123,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.main (1)">
     <configuration name="db" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyty" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,7 +178,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="learn_python_book" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyty" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -181,11 +186,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyGTK" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_python_book.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyGTK/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,18 +216,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.essa_training" />
-      <item itemvalue="Python.learn_python_book" />
       <item itemvalue="Python.index" />
       <item itemvalue="Python.db" />
       <item itemvalue="Python.main" />
+      <item itemvalue="Python.main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.index" />
         <item itemvalue="Python.db" />
         <item itemvalue="Python.essa_training" />
-        <item itemvalue="Python.learn_python_book" />
       </list>
     </recent_temporary>
   </component>
@@ -377,7 +382,14 @@
       <option name="project" value="LOCAL" />
       <updated>1529899255706</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Moving to PyGTK">
+      <created>1529899874927</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1529899874927</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TodoView">
@@ -400,15 +412,15 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50277776" side_tool="true" weight="0.29240507" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.5088214" side_tool="true" weight="0.22710162" />
       <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.49400142" weight="0.32825485" />
+      <window_info active="true" anchor="bottom" x="1" y="337" width="1448" height="236" id="Run" order="2" sideWeight="0.49117854" visible="true" weight="0.22693267" />
       <window_info id="Structure" order="1" sideWeight="0.5009242" side_tool="true" weight="0.1905434" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49400142" weight="0.32963988" />
       <window_info id="Favorites" order="2" sideWeight="0.50140846" side_tool="true" weight="0.2505293" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39774153" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" x="1" y="337" width="1448" height="236" id="Run" order="2" sideWeight="0.49117854" weight="0.22693267" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39774153" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32873276" />
@@ -510,7 +522,11 @@
     <entry file="file://$PROJECT_DIR$/oop/index.py" />
     <entry file="file://$PROJECT_DIR$/OOP/main.py" />
     <entry file="file://$PROJECT_DIR$/PyGTK/main.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
