@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45d522c2-4939-4bda-9c05-6c5ca5050eab" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/OOP/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Old/Algorithms.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Old/GC_Spread_sheet.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Old/builtins.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Old/essa_training.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Old/ex.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Old/handsOnPython-book.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Old/keywords.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Old/learn_python_book.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Old/py3book.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Old/selenium.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Old/عمرو" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lorem_ipsum.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyQt/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyGTK/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,12 +18,8 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/OOP/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/PyGTK/main.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -78,6 +59,7 @@
         <option value="$PROJECT_DIR$/db.py" />
         <option value="$PROJECT_DIR$/oop/index.py" />
         <option value="$PROJECT_DIR$/OOP/main.py" />
+        <option value="$PROJECT_DIR$/PyQt/main.py" />
       </list>
     </option>
   </component>
@@ -106,7 +88,7 @@
             <path>
               <item name="pyty" type="b2602c69:ProjectViewProjectNode" />
               <item name="pyty" type="462c0819:PsiDirectoryNode" />
-              <item name="OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="PyGTK" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -374,7 +356,21 @@
       <option name="project" value="LOCAL" />
       <updated>1529794369242</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="OOP workout">
+      <created>1529895062862</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1529895062862</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Started with PyQt">
+      <created>1529895225750</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1529895225750</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TodoView">
@@ -397,15 +393,15 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50277776" side_tool="true" weight="0.29240507" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.5088214" side_tool="true" weight="0.22710162" />
       <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.49400142" weight="0.32825485" />
-      <window_info active="true" anchor="bottom" x="1" y="337" width="1448" height="236" id="Run" order="2" sideWeight="0.49117854" visible="true" weight="0.22693267" />
       <window_info id="Structure" order="1" sideWeight="0.5009242" side_tool="true" weight="0.1905434" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49400142" weight="0.32963988" />
       <window_info id="Favorites" order="2" sideWeight="0.50140846" side_tool="true" weight="0.2505293" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39774153" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" x="1" y="337" width="1448" height="236" id="Run" order="2" sideWeight="0.49117854" weight="0.22693267" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39774153" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32873276" />
@@ -451,22 +447,18 @@
     <MESSAGE value="some oop training" />
     <MESSAGE value="End of learn python3 book" />
     <MESSAGE value="OOP workout" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOP workout" />
+    <MESSAGE value="Started with PyQt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Started with PyQt" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/oop/index.py">
+    <entry file="file://$PROJECT_DIR$/PyGTK/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-          <folding>
-            <element signature="e#51#67#0" expanded="true" />
-            <element signature="e#99#166#0" expanded="true" />
-            <element signature="e#203#315#0" expanded="true" />
-            <element signature="e#368#436#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/oop/index.py" />
     <entry file="file://$PROJECT_DIR$/oop/index.py" />
     <entry file="file://$PROJECT_DIR$/oop/index.py" />
     <entry file="file://$PROJECT_DIR$/ex.txt" />
@@ -505,23 +497,12 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/essa_training.py" />
-    <entry file="file://$PROJECT_DIR$/db.sqlite3">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="62" lean-forward="true" selection-start-line="3" selection-start-column="62" selection-end-line="3" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/db.sqlite3" />
+    <entry file="file://$PROJECT_DIR$/db.py" />
     <entry file="file://$PROJECT_DIR$/oop/index.py" />
-    <entry file="file://$PROJECT_DIR$/OOP/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/OOP/main.py" />
+    <entry file="file://$PROJECT_DIR$/PyGTK/main.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
