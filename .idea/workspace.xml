@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45d522c2-4939-4bda-9c05-6c5ca5050eab" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PyGTK/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyGTK/main.py" afterDir="false" />
     </list>
@@ -20,8 +21,12 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PyGTK/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="340">
+              <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+              <folding>
+                <element signature="e#134#299#0" expanded="true" />
+                <element signature="e#361#381#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -94,6 +99,11 @@
               <item name="pyty" type="b2602c69:ProjectViewProjectNode" />
               <item name="pyty" type="462c0819:PsiDirectoryNode" />
               <item name="PyGTK" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyty" type="462c0819:PsiDirectoryNode" />
+              <item name="step1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -389,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1529899874927</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="first steps in PyGTK">
+      <created>1529900340313</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1529900340313</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TodoView">
@@ -405,17 +422,18 @@
     <frame x="-2" y="24" width="1444" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info auto_hide="true" content_ui="combo" id="Project" order="0" sideWeight="0.49859154" weight="0.17124736" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49400142" weight="0.32963988" />
-      <window_info id="DB Browser" order="2" weight="0.32956952" />
+      <window_info anchor="bottom" id="TODO" order="6" show_stripe_button="false" sideWeight="0.49400142" weight="0.32917705" />
+      <window_info id="DB Browser" order="2" show_stripe_button="false" weight="0.32840028" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50277776" side_tool="true" weight="0.29240507" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.5088214" side_tool="true" weight="0.22710162" />
-      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.49400142" weight="0.32825485" />
+      <window_info anchor="bottom" id="Python Console" order="8" show_stripe_button="false" sideWeight="0.49400142" weight="0.32793018" />
       <window_info active="true" anchor="bottom" x="1" y="337" width="1448" height="236" id="Run" order="2" sideWeight="0.49117854" visible="true" weight="0.22693267" />
-      <window_info id="Structure" order="1" sideWeight="0.5009242" side_tool="true" weight="0.1905434" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49400142" weight="0.32963988" />
-      <window_info id="Favorites" order="2" sideWeight="0.50140846" side_tool="true" weight="0.2505293" />
+      <window_info anchor="bottom" id="Terminal" order="9" show_stripe_button="false" sideWeight="0.49400142" weight="0.32917705" />
+      <window_info auto_hide="true" content_ui="combo" id="Project" order="0" sideWeight="0.49859154" weight="0.17124736" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32873276" />
+      <window_info id="Structure" order="1" show_stripe_button="false" sideWeight="0.5009242" side_tool="true" weight="0.19027483" />
+      <window_info id="Favorites" order="2" show_stripe_button="false" sideWeight="0.50140846" side_tool="true" weight="0.2501762" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39774153" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -423,7 +441,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32873276" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -468,13 +485,18 @@
     <MESSAGE value="OOP workout" />
     <MESSAGE value="Started with PyQt" />
     <MESSAGE value="Moving to PyGTK" />
-    <option name="LAST_COMMIT_MESSAGE" value="Moving to PyGTK" />
+    <MESSAGE value="first steps in PyGTK" />
+    <option name="LAST_COMMIT_MESSAGE" value="first steps in PyGTK" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PyGTK/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#134#299#0" expanded="true" />
+            <element signature="e#361#381#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -521,10 +543,17 @@
     <entry file="file://$PROJECT_DIR$/db.py" />
     <entry file="file://$PROJECT_DIR$/oop/index.py" />
     <entry file="file://$PROJECT_DIR$/OOP/main.py" />
+    <entry file="file://$PROJECT_DIR$/step1/db.sqlite3">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/PyGTK/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="340">
+          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+          <folding>
+            <element signature="e#134#299#0" expanded="true" />
+            <element signature="e#361#381#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
