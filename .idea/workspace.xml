@@ -32,8 +32,11 @@
       <file leaf-file-name="cw.kv" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Kivy/cw.kv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <state relative-caret-position="136">
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+              <folding>
+                <element signature="n#CustomWidget#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -118,7 +121,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -445,7 +448,14 @@
       <option name="project" value="LOCAL" />
       <updated>1530047990642</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Working with Kivy">
+      <created>1530048140607</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1530048140607</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TodoView">
@@ -549,7 +559,8 @@
     <MESSAGE value="PyGTK" />
     <MESSAGE value="Established PyQt and Kivy sub-directories in order to choose one of the three GUI libraries to work with" />
     <MESSAGE value="Moved to Kivy" />
-    <option name="LAST_COMMIT_MESSAGE" value="Moved to Kivy" />
+    <MESSAGE value="Working with Kivy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working with Kivy" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Kivy/main.py">
@@ -644,8 +655,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Kivy/cw.kv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        <state relative-caret-position="136">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <element signature="n#CustomWidget#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
