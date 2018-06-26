@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="45d522c2-4939-4bda-9c05-6c5ca5050eab" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kivy/cw.kv" beforeDir="false" afterPath="$PROJECT_DIR$/Kivy/cw.kv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,32 +15,7 @@
     <favorites_list name="pyty" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Kivy/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="e#192#213#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cw.kv" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Kivy/cw.kv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-              <folding>
-                <element signature="n#CustomWidget#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -455,7 +429,14 @@
       <option name="project" value="LOCAL" />
       <updated>1530048140607</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Working with Kivy">
+      <created>1530048440936</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1530048440936</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TodoView">
@@ -469,7 +450,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="24" width="1444" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info auto_hide="true" content_ui="combo" id="Project" order="0" sideWeight="0.49859154" weight="0.17124736" />
       <window_info anchor="bottom" id="TODO" order="6" show_stripe_button="false" sideWeight="0.49400142" weight="0.32917705" />
@@ -478,9 +458,9 @@
       <window_info anchor="bottom" id="Event Log" order="7" show_stripe_button="false" sideWeight="0.50277776" side_tool="true" weight="0.29177058" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.5088214" side_tool="true" weight="0.22693267" />
       <window_info anchor="bottom" id="Python Console" order="8" show_stripe_button="false" sideWeight="0.49400142" weight="0.32793018" />
-      <window_info anchor="bottom" x="1" y="337" width="1448" height="236" id="Run" order="2" sideWeight="0.49117854" visible="true" weight="0.22693267" />
+      <window_info anchor="bottom" x="1" y="337" width="1448" height="236" id="Run" order="2" sideWeight="0.49117854" weight="0.22693267" />
       <window_info id="Structure" order="1" show_stripe_button="false" sideWeight="0.5009242" side_tool="true" weight="0.19027483" />
-      <window_info anchor="bottom" id="Terminal" order="9" show_stripe_button="false" sideWeight="0.49400142" weight="0.32917705" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49400142" weight="0.32917705" />
       <window_info id="Favorites" order="2" show_stripe_button="false" sideWeight="0.50140846" side_tool="true" weight="0.2501762" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39774153" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -643,22 +623,22 @@
     <entry file="file://$PROJECT_DIR$/PyQt/main.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Kivy/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#192#213#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Kivy/cw.kv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
           <folding>
             <element signature="n#CustomWidget#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kivy/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#192#213#0" expanded="true" />
           </folding>
         </state>
       </provider>
