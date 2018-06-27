@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="45d522c2-4939-4bda-9c05-6c5ca5050eab" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyQt/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyQt/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,7 +16,21 @@
     <favorites_list name="pyty" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PyQt/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#59#203#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -53,9 +68,9 @@
         <option value="$PROJECT_DIR$/oop/index.py" />
         <option value="$PROJECT_DIR$/OOP/main.py" />
         <option value="$PROJECT_DIR$/PyGTK/main.py" />
-        <option value="$PROJECT_DIR$/PyQt/main.py" />
         <option value="$PROJECT_DIR$/Kivy/main.py" />
         <option value="$PROJECT_DIR$/Kivy/cw.kv" />
+        <option value="$PROJECT_DIR$/PyQt/main.py" />
       </list>
     </option>
   </component>
@@ -83,7 +98,7 @@
             <path>
               <item name="pyty" type="b2602c69:ProjectViewProjectNode" />
               <item name="pyty" type="462c0819:PsiDirectoryNode" />
-              <item name="Kivy" type="462c0819:PsiDirectoryNode" />
+              <item name="PyQt" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -114,25 +129,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main (2)">
-    <configuration name="db" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pyty" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.main (3)">
     <configuration name="index" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyty" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,6 +184,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyty" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyQt" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQt/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyty" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -207,18 +222,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.index" />
-      <item itemvalue="Python.db" />
       <item itemvalue="Python.main" />
       <item itemvalue="Python.main (1)" />
       <item itemvalue="Python.main (2)" />
+      <item itemvalue="Python.main (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.index" />
-        <item itemvalue="Python.db" />
       </list>
     </recent_temporary>
   </component>
@@ -436,7 +451,14 @@
       <option name="project" value="LOCAL" />
       <updated>1530048440936</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Returning back to QT">
+      <created>1530049142520</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1530049142520</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TodoView">
@@ -450,6 +472,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="24" width="1444" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info auto_hide="true" content_ui="combo" id="Project" order="0" sideWeight="0.49859154" weight="0.17124736" />
       <window_info anchor="bottom" id="TODO" order="6" show_stripe_button="false" sideWeight="0.49400142" weight="0.32917705" />
@@ -458,7 +481,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" show_stripe_button="false" sideWeight="0.50277776" side_tool="true" weight="0.29177058" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.5088214" side_tool="true" weight="0.22693267" />
       <window_info anchor="bottom" id="Python Console" order="8" show_stripe_button="false" sideWeight="0.49400142" weight="0.32793018" />
-      <window_info anchor="bottom" x="1" y="337" width="1448" height="236" id="Run" order="2" sideWeight="0.49117854" weight="0.22693267" />
+      <window_info active="true" anchor="bottom" x="1" y="337" width="1448" height="236" id="Run" order="2" sideWeight="0.49117854" visible="true" weight="0.22693267" />
       <window_info id="Structure" order="1" show_stripe_button="false" sideWeight="0.5009242" side_tool="true" weight="0.19027483" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49400142" weight="0.32917705" />
       <window_info id="Favorites" order="2" show_stripe_button="false" sideWeight="0.50140846" side_tool="true" weight="0.2501762" />
@@ -540,7 +563,8 @@
     <MESSAGE value="Established PyQt and Kivy sub-directories in order to choose one of the three GUI libraries to work with" />
     <MESSAGE value="Moved to Kivy" />
     <MESSAGE value="Working with Kivy" />
-    <option name="LAST_COMMIT_MESSAGE" value="Working with Kivy" />
+    <MESSAGE value="Returning back to QT" />
+    <option name="LAST_COMMIT_MESSAGE" value="Returning back to QT" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Kivy/main.py">
@@ -620,9 +644,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PyQt/main.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Kivy/cw.kv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -639,6 +660,17 @@
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="e#192#213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#59#203#0" expanded="true" />
           </folding>
         </state>
       </provider>
