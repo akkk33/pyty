@@ -1,5 +1,5 @@
 import sys
-from PyQt5 import QtWidgets
+from PyQt5 import QtWidgets, QtGui
 
 
 def window():
@@ -7,7 +7,7 @@ def window():
     w = QtWidgets.QWidget()
     l1 = QtWidgets.QLabel(w)
     l1.setText("Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit")
-    l1.setAlignment()
+
     w.setFixedHeight(540)
     w.setFixedWidth(960)
     w.setWindowTitle('PyQt5')
