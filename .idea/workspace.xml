@@ -2,29 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45d522c2-4939-4bda-9c05-6c5ca5050eab" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/step1/Old/processes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/step1/Old/threads.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pyty.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pyty.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyQt/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyQt/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/step1/Old/essa_training.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="713137539">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="7" />
+          <entry key="py" value="242" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="Python" value="242" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="pyty" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PyQt/main.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/step1/Old/processes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="221">
+              <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
-                <element signature="e#59#203#0" expanded="true" />
+                <element signature="e#0#35#0" expanded="true" />
+                <element signature="e#69#115#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -71,6 +107,8 @@
         <option value="$PROJECT_DIR$/Kivy/main.py" />
         <option value="$PROJECT_DIR$/Kivy/cw.kv" />
         <option value="$PROJECT_DIR$/PyQt/main.py" />
+        <option value="$PROJECT_DIR$/step1/Old/essa_training.py" />
+        <option value="$PROJECT_DIR$/step1/Old/processes.py" />
       </list>
     </option>
   </component>
@@ -88,6 +126,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -98,21 +137,29 @@
             <path>
               <item name="pyty" type="b2602c69:ProjectViewProjectNode" />
               <item name="pyty" type="462c0819:PsiDirectoryNode" />
-              <item name="PyQt" type="462c0819:PsiDirectoryNode" />
+              <item name="step1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pyty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pyty" type="462c0819:PsiDirectoryNode" />
+              <item name="step1" type="462c0819:PsiDirectoryNode" />
+              <item name="Old" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../1- Basics/pytest" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/step1/Old" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Old" />
     </key>
@@ -129,8 +176,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main (3)">
-    <configuration name="index" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.processes">
+    <configuration name="essa_training" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyty" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,15 +185,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/step1/Old" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop/index.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/step1/Old/threads.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyty" />
@@ -165,6 +215,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyty" />
@@ -183,6 +236,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyty" />
@@ -201,8 +257,11 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="processes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyty" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,30 +269,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/step1/Old" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/step1/Old/processes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.index" />
-      <item itemvalue="Python.main" />
       <item itemvalue="Python.main (1)" />
       <item itemvalue="Python.main (2)" />
       <item itemvalue="Python.main (3)" />
+      <item itemvalue="Python.essa_training" />
+      <item itemvalue="Python.processes" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.processes" />
+        <item itemvalue="Python.essa_training" />
         <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.index" />
       </list>
     </recent_temporary>
   </component>
@@ -479,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1530145869776</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Digging in PyQt">
+      <created>1530151761633</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1530151761633</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TodoView">
@@ -495,47 +564,47 @@
     <frame x="-2" y="24" width="1444" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" show_stripe_button="false" sideWeight="0.49400142" weight="0.32917705" />
-      <window_info id="DB Browser" order="2" show_stripe_button="false" weight="0.32840028" />
-      <window_info anchor="bottom" id="DB Execution Console" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="7" show_stripe_button="false" sideWeight="0.50277776" side_tool="true" weight="0.29177058" />
-      <window_info anchor="right" x="0" y="0" width="311" height="678" id="Documentation" side_tool="true" weight="0.3297568" />
-      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.5088214" side_tool="true" weight="0.22693267" />
-      <window_info anchor="bottom" id="Python Console" order="8" show_stripe_button="false" sideWeight="0.49400142" weight="0.32793018" />
-      <window_info anchor="bottom" x="1" y="337" width="1448" height="236" id="Run" order="2" sideWeight="0.49117854" visible="true" weight="0.23067331" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49400142" weight="0.32917705" />
-      <window_info auto_hide="true" content_ui="combo" id="Project" order="0" sideWeight="0.49859154" weight="0.17095852" />
+      <window_info auto_hide="true" content_ui="combo" id="Project" order="0" sideWeight="0.49859154" weight="0.1702432" />
       <window_info id="Structure" order="1" show_stripe_button="false" sideWeight="0.5009242" side_tool="true" weight="0.19027483" />
-      <window_info id="Favorites" order="2" show_stripe_button="false" sideWeight="0.50140846" side_tool="true" weight="0.2501762" />
+      <window_info id="DB Browser" order="2" show_stripe_button="false" weight="0.32840028" />
+      <window_info id="Favorites" order="3" show_stripe_button="false" sideWeight="0.50140846" side_tool="true" weight="0.2501762" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32873276" />
+      <window_info active="true" anchor="bottom" x="1" y="337" width="1448" height="236" id="Run" order="2" sideWeight="0.49117854" visible="true" weight="0.23067331" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39774153" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" show_stripe_button="false" sideWeight="0.49400142" weight="0.32917705" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" show_stripe_button="false" sideWeight="0.50277776" side_tool="true" weight="0.29177058" />
+      <window_info anchor="bottom" id="Python Console" order="9" show_stripe_button="false" sideWeight="0.49400142" weight="0.32793018" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49400142" weight="0.32917705" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.5088214" side_tool="true" weight="0.22693267" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32873276" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="311" height="678" id="Documentation" order="3" side_tool="true" visible="true" weight="0.3297568" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="bottom" id="DB Execution Console" order="7" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info auto_hide="true" content_ui="combo" id="Project" order="0" sideWeight="0.49859154" weight="0.17124736" />
       <window_info id="Structure" order="1" show_stripe_button="false" sideWeight="0.5009242" side_tool="true" weight="0.19027483" />
+      <window_info id="DB Browser" order="2" show_stripe_button="false" weight="0.32840028" />
+      <window_info id="Favorites" order="3" show_stripe_button="false" sideWeight="0.50140846" side_tool="true" weight="0.2501762" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32873276" />
+      <window_info anchor="bottom" x="1" y="337" width="1448" height="236" id="Run" order="2" sideWeight="0.49117854" visible="true" weight="0.22693267" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39774153" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" show_stripe_button="false" sideWeight="0.49400142" weight="0.32917705" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50277776" side_tool="true" weight="0.29240507" />
+      <window_info anchor="bottom" id="Python Console" order="9" show_stripe_button="false" sideWeight="0.49400142" weight="0.32793018" />
+      <window_info anchor="bottom" id="Terminal" order="10" show_stripe_button="false" sideWeight="0.49400142" weight="0.32917705" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.5088214" side_tool="true" weight="0.22710162" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" show_stripe_button="false" sideWeight="0.49400142" weight="0.32917705" />
-      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.5088214" side_tool="true" weight="0.22710162" />
-      <window_info anchor="bottom" x="1" y="337" width="1448" height="236" id="Run" order="2" sideWeight="0.49117854" visible="true" weight="0.22693267" />
-      <window_info id="DB Browser" order="2" show_stripe_button="false" weight="0.32840028" />
-      <window_info anchor="bottom" id="Python Console" order="9" show_stripe_button="false" sideWeight="0.49400142" weight="0.32793018" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39774153" />
-      <window_info anchor="bottom" id="Terminal" order="10" show_stripe_button="false" sideWeight="0.49400142" weight="0.32917705" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50277776" side_tool="true" weight="0.29240507" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32873276" />
-      <window_info id="Favorites" order="3" show_stripe_button="false" sideWeight="0.50140846" side_tool="true" weight="0.2501762" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -590,43 +659,8 @@
     <option name="LAST_COMMIT_MESSAGE" value="Digging in PyQt" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Kivy/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#192#213#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PyGTK/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PyGTK/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oop/index.py" />
-    <entry file="file://$PROJECT_DIR$/oop/index.py" />
-    <entry file="file://$PROJECT_DIR$/oop/index.py" />
-    <entry file="file://$PROJECT_DIR$/ex.txt" />
-    <entry file="file://$PROJECT_DIR$/essa_training.py" />
     <entry file="file://$PROJECT_DIR$/test.py" />
-    <entry file="file:///usr/lib64/python3.6/turtle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1041" selection-start-line="1041" selection-end-line="1041" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:///usr/lib64/python3.6/turtle.py" />
     <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9825">
@@ -671,9 +705,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-          <folding>
-            <element signature="n#CustomWidget#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -681,9 +712,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#192#213#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -691,9 +719,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="735" column="8" selection-start-line="735" selection-start-column="8" selection-end-line="735" selection-end-column="26" />
-          <folding>
-            <element signature="e#28023#28088#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -701,9 +726,51 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/step1/oop/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
-            <element signature="e#59#203#0" expanded="true" />
+            <element signature="e#51#67#0" expanded="true" />
+            <element signature="e#99#166#0" expanded="true" />
+            <element signature="e#203#315#0" expanded="true" />
+            <element signature="e#368#436#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/step1/db.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/step1/Old/Algorithms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/step1/Old/threads.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+            <element signature="e#68#112#0" expanded="true" />
+            <marker date="1534761555566" expanded="true" signature="64:69" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/step1/Old/processes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+            <element signature="e#69#115#0" expanded="true" />
           </folding>
         </state>
       </provider>
