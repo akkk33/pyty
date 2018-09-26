@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45d522c2-4939-4bda-9c05-6c5ca5050eab" name="Default" comment="some challenges">
-      <change afterPath="$PROJECT_DIR$/Leetcode/twosum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codewars.com/Get the Middle Character.py" afterDir="false" />
+    <list default="true" id="45d522c2-4939-4bda-9c05-6c5ca5050eab" name="Default" comment="Made a playground to practice codewars.com challenges before submitting the answer">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars.com/Get the Middle Character.py" beforeDir="false" afterPath="$PROJECT_DIR$/codewars.com/Get the Middle Character.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,14 +37,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="7" />
-          <entry key="py" value="573" />
-          <entry key="txt" value="38" />
+          <entry key="py" value="722" />
+          <entry key="txt" value="125" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="45" />
-          <entry key="Python" value="573" />
+          <entry key="PLAIN_TEXT" value="132" />
+          <entry key="Python" value="722" />
         </counts>
       </usages-collector>
     </session>
@@ -58,10 +57,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/codewars.com/Get the Middle Character.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#264#308#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -554,7 +551,14 @@
       <option name="project" value="LOCAL" />
       <updated>1536019042862</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Made a playground to practice codewars.com challenges before submitting the answer">
+      <created>1538003309528</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1538003309528</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TodoView">
@@ -664,7 +668,8 @@
     <MESSAGE value="Digging in PyQt" />
     <MESSAGE value="Threads vs Processes" />
     <MESSAGE value="some challenges" />
-    <option name="LAST_COMMIT_MESSAGE" value="some challenges" />
+    <MESSAGE value="Made a playground to practice codewars.com challenges before submitting the answer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made a playground to practice codewars.com challenges before submitting the answer" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test.py" />
@@ -780,10 +785,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/codewars.com/Get the Middle Character.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#264#308#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>

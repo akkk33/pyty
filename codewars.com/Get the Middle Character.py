@@ -1,8 +1,8 @@
 def get_middle(s):
-    le = len(s)
-    md = (le / 2)
-
-    print(md)
+    if len(s) % 2 == 0:
+        return print(s[int(len(s) / 2) - 1:int(len(s) / 2) + 1])
+    else:
+        return print(s[int(len(s) / 2)])
 
 
 get_middle("Tokyo")
