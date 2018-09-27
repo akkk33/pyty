@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45d522c2-4939-4bda-9c05-6c5ca5050eab" name="Default" comment="Made a playground to practice codewars.com challenges before submitting the answer">
+    <list default="true" id="45d522c2-4939-4bda-9c05-6c5ca5050eab" name="Default" comment="Get the middle character">
+      <change afterPath="$PROJECT_DIR$/codewars.com/Printer Errors.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewars.com/Get the Middle Character.py" beforeDir="false" afterPath="$PROJECT_DIR$/codewars.com/Get the Middle Character.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,25 +26,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="7" />
+          <entry key="py" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="7" />
+          <entry key="Python" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="7" />
-          <entry key="py" value="874" />
-          <entry key="txt" value="125" />
+          <entry key="py" value="1179" />
+          <entry key="txt" value="150" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="132" />
-          <entry key="Python" value="874" />
+          <entry key="PLAIN_TEXT" value="157" />
+          <entry key="Python" value="1179" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -56,12 +56,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/codewars.com/Get the Middle Character.py">
+        <entry file="file://$PROJECT_DIR$/codewars.com/Printer Errors.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="204">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
               <folding>
-                <marker date="1538005294527" expanded="true" signature="305:355" ph="..." />
+                <element signature="e#961#1072#0" expanded="true" />
+                <marker date="1538006654446" expanded="true" signature="956:957" ph="..." />
               </folding>
             </state>
           </provider>
@@ -113,6 +114,8 @@
         <option value="$PROJECT_DIR$/step1/Old/practicepython.org.py" />
         <option value="$PROJECT_DIR$/Leetcode/twosum.py" />
         <option value="$PROJECT_DIR$/codewars.com/Get the Middle Character.py" />
+        <option value="$PROJECT_DIR$/codewars.com/Opposite number.py" />
+        <option value="$PROJECT_DIR$/codewars.com/Printer Errors.py" />
       </list>
     </option>
   </component>
@@ -169,7 +172,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Get the Middle Character">
+  <component name="RunManager" selected="Python.Printer Errors">
     <configuration name="Get the Middle Character" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyty" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -191,7 +194,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="essa_training" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Opposite number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyty" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -199,11 +202,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/step1/Old" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codewars.com" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/step1/Old/threads.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewars.com/Opposite number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,7 +215,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Printer Errors" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyty" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -220,11 +223,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyQt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codewars.com" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQt/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codewars.com/Printer Errors.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,19 +279,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main (3)" />
-      <item itemvalue="Python.essa_training" />
       <item itemvalue="Python.processes" />
       <item itemvalue="Python.practicepython.org" />
       <item itemvalue="Python.Get the Middle Character" />
+      <item itemvalue="Python.Opposite number" />
+      <item itemvalue="Python.Printer Errors" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Printer Errors" />
+        <item itemvalue="Python.Opposite number" />
         <item itemvalue="Python.Get the Middle Character" />
         <item itemvalue="Python.practicepython.org" />
         <item itemvalue="Python.processes" />
-        <item itemvalue="Python.essa_training" />
-        <item itemvalue="Python.main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -569,7 +572,21 @@
       <option name="project" value="LOCAL" />
       <updated>1538004066272</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Get the middle character">
+      <created>1538005315203</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1538005315203</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Get the middle character">
+      <created>1538005645968</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1538005645968</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TodoView">
@@ -680,7 +697,8 @@
     <MESSAGE value="Threads vs Processes" />
     <MESSAGE value="some challenges" />
     <MESSAGE value="Made a playground to practice codewars.com challenges before submitting the answer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made a playground to practice codewars.com challenges before submitting the answer" />
+    <MESSAGE value="Get the middle character" />
+    <option name="LAST_COMMIT_MESSAGE" value="Get the middle character" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test.py" />
@@ -800,6 +818,28 @@
           <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <marker date="1538005294527" expanded="true" signature="305:355" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codewars.com/Opposite number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#26#65#0" expanded="true" />
+            <marker date="1538005643105" expanded="true" signature="41:46" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codewars.com/Printer Errors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#961#1072#0" expanded="true" />
+            <marker date="1538006654446" expanded="true" signature="956:957" ph="..." />
           </folding>
         </state>
       </provider>
