@@ -1,48 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45d522c2-4939-4bda-9c05-6c5ca5050eab" name="Default" comment="Negative number">
-      <change afterPath="$PROJECT_DIR$/FaceDetection/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroToComputerSciense_Udacity/Lesson01/quiz1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codewars.com/Find The Parity Outlier.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/amr.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/amr.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pyty.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pyty.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="45d522c2-4939-4bda-9c05-6c5ca5050eab" name="Default" comment="find the outlier">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kivy/cw.kv" beforeDir="false" afterPath="$PROJECT_DIR$/Kivy/cw.kv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kivy/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Kivy/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Leetcode/twosum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/twosum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyGTK/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyGTK/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyQt/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyQt/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyQt/template.ui" beforeDir="false" afterPath="$PROJECT_DIR$/PyQt/template.ui" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewars.com/Get the Middle Character.py" beforeDir="false" afterPath="$PROJECT_DIR$/codewars.com/Get the Middle Character.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewars.com/Opposite number.py" beforeDir="false" afterPath="$PROJECT_DIR$/codewars.com/Opposite number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewars.com/Printer Errors.py" beforeDir="false" afterPath="$PROJECT_DIR$/codewars.com/Printer Errors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewars.com/make negative.py" beforeDir="false" afterPath="$PROJECT_DIR$/codewars.com/make negative.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/step1/Old/Algorithms.py" beforeDir="false" afterPath="$PROJECT_DIR$/step1/Old/Algorithms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/step1/Old/GC_Spread_sheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/step1/Old/GC_Spread_sheet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/step1/Old/builtins.py" beforeDir="false" afterPath="$PROJECT_DIR$/step1/Old/builtins.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/step1/Old/ex.txt" beforeDir="false" afterPath="$PROJECT_DIR$/step1/Old/ex.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/step1/Old/handsOnPython-book.py" beforeDir="false" afterPath="$PROJECT_DIR$/step1/Old/handsOnPython-book.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/step1/Old/keywords.py" beforeDir="false" afterPath="$PROJECT_DIR$/step1/Old/keywords.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/step1/Old/learn_python_book.py" beforeDir="false" afterPath="$PROJECT_DIR$/step1/Old/learn_python_book.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/step1/Old/practicepython.org.py" beforeDir="false" afterPath="$PROJECT_DIR$/step1/Old/practicepython.org.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/step1/Old/processes.py" beforeDir="false" afterPath="$PROJECT_DIR$/step1/Old/processes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/step1/Old/py3book.py" beforeDir="false" afterPath="$PROJECT_DIR$/step1/Old/py3book.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/step1/Old/selenium.py" beforeDir="false" afterPath="$PROJECT_DIR$/step1/Old/selenium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/step1/Old/threads.py" beforeDir="false" afterPath="$PROJECT_DIR$/step1/Old/threads.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/step1/Old/عمرو" beforeDir="false" afterPath="$PROJECT_DIR$/step1/Old/عمرو" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/step1/db.py" beforeDir="false" afterPath="$PROJECT_DIR$/step1/db.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/step1/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/step1/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/step1/lorem_ipsum.txt" beforeDir="false" afterPath="$PROJECT_DIR$/step1/lorem_ipsum.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/step1/oop/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/step1/oop/index.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +15,7 @@
     <session id="713137539">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
@@ -62,31 +23,60 @@
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.20" value="2" />
-          <entry key="project.open.time.7" value="4" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.open.time.7" value="5" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="19" />
+          <entry key="py" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="19" />
+          <entry key="Python" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="7" />
-          <entry key="py" value="1901" />
-          <entry key="txt" value="179" />
+          <entry key="py" value="1943" />
+          <entry key="txt" value="204" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="186" />
-          <entry key="Python" value="1901" />
+          <entry key="PLAIN_TEXT" value="211" />
+          <entry key="Python" value="1943" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+    <session id="-1226049789">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="276" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="276" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -98,13 +88,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/codewars.com/Find The Parity Outlier.py">
+        <entry file="file://$PROJECT_DIR$/Leetcode/twosum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
-              <folding>
-                <marker date="1540468673767" expanded="true" signature="583:585" ph="..." />
-              </folding>
+            <state relative-caret-position="183">
+              <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -153,7 +140,6 @@
         <option value="$PROJECT_DIR$/step1/Old/essa_training.py" />
         <option value="$PROJECT_DIR$/step1/Old/processes.py" />
         <option value="$PROJECT_DIR$/step1/Old/practicepython.org.py" />
-        <option value="$PROJECT_DIR$/Leetcode/twosum.py" />
         <option value="$PROJECT_DIR$/codewars.com/Get the Middle Character.py" />
         <option value="$PROJECT_DIR$/codewars.com/Opposite number.py" />
         <option value="$PROJECT_DIR$/codewars.com/Printer Errors.py" />
@@ -161,6 +147,7 @@
         <option value="$PROJECT_DIR$/IntroToComputerSciense_Udacity/Lesson01/quiz1.py" />
         <option value="$PROJECT_DIR$/FaceDetection/__init__.py" />
         <option value="$PROJECT_DIR$/codewars.com/Find The Parity Outlier.py" />
+        <option value="$PROJECT_DIR$/Leetcode/twosum.py" />
       </list>
     </option>
   </component>
@@ -178,6 +165,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -188,19 +176,18 @@
             <path>
               <item name="pyty" type="b2602c69:ProjectViewProjectNode" />
               <item name="pyty" type="462c0819:PsiDirectoryNode" />
-              <item name="codewars.com" type="462c0819:PsiDirectoryNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -222,7 +209,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Find The Parity Outlier">
+  <component name="RunManager" selected="Python.twosum">
     <configuration name="Find The Parity Outlier" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyty" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -307,7 +294,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="quiz1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="twosum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyty" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -315,11 +302,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IntroToComputerSciense_Udacity/Lesson01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IntroToComputerSciense_Udacity/Lesson01/quiz1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/twosum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -330,18 +317,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.Printer Errors" />
-      <item itemvalue="Python.quiz1" />
       <item itemvalue="Python.__init__" />
       <item itemvalue="Python.Get the Middle Character" />
       <item itemvalue="Python.Find The Parity Outlier" />
+      <item itemvalue="Python.twosum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.twosum" />
         <item itemvalue="Python.Find The Parity Outlier" />
         <item itemvalue="Python.Printer Errors" />
         <item itemvalue="Python.Get the Middle Character" />
         <item itemvalue="Python.__init__" />
-        <item itemvalue="Python.quiz1" />
       </list>
     </recent_temporary>
   </component>
@@ -650,7 +637,21 @@
       <option name="project" value="LOCAL" />
       <updated>1538260023360</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="find the stranger">
+      <created>1540468691130</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1540468691130</updated>
+    </task>
+    <task id="LOCAL-00044" summary="find the outlier">
+      <created>1540509190906</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1540509190906</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TodoView">
@@ -663,7 +664,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="860" extended-state="6" />
+    <frame x="-1" y="26" width="1442" height="875" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info auto_hide="true" content_ui="combo" id="Project" order="0" sideWeight="0.49859154" weight="0.16772375" />
@@ -672,7 +673,7 @@
       <window_info id="Favorites" order="3" show_stripe_button="false" sideWeight="0.50140846" side_tool="true" weight="0.2501762" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32873276" />
-      <window_info active="true" anchor="bottom" x="1" y="337" width="1448" height="236" id="Run" order="2" sideWeight="0.49117854" visible="true" weight="0.37551022" />
+      <window_info active="true" anchor="bottom" x="1" y="337" width="1448" height="236" id="Run" order="2" sideWeight="0.49117854" visible="true" weight="0.37449118" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40416667" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -740,8 +741,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="configurations" />
-    <MESSAGE value="Engaged in" />
     <MESSAGE value="In the game" />
     <MESSAGE value="Playing around" />
     <MESSAGE value="Finished the book" />
@@ -765,7 +764,9 @@
     <MESSAGE value="Get the middle character" />
     <MESSAGE value="Printer Errors" />
     <MESSAGE value="Negative number" />
-    <option name="LAST_COMMIT_MESSAGE" value="Negative number" />
+    <MESSAGE value="find the stranger" />
+    <MESSAGE value="find the outlier" />
+    <option name="LAST_COMMIT_MESSAGE" value="find the outlier" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test.py" />
@@ -870,9 +871,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Leetcode/twosum.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/IntroToComputerSciense_Udacity/Lesson01/quiz1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
@@ -884,9 +882,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -920,11 +915,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/codewars.com/Find The Parity Outlier.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+        <state relative-caret-position="294">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
           <folding>
-            <marker date="1540468673767" expanded="true" signature="583:585" ph="..." />
+            <marker date="1540509176831" expanded="true" signature="792:794" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Leetcode/twosum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
         </state>
       </provider>
     </entry>
