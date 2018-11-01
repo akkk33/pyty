@@ -22,7 +22,7 @@ class Solution:
         """
         for i, v in enumerate(nums):
             for x, y in enumerate(nums):
-                if v + y == target:
+                if v + y == target and v != y:
                     return [i, x]
 
 
