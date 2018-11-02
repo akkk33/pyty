@@ -1,2 +1,2 @@
 # pyty
-Python Training Yard
+This is my main repo for studying python.

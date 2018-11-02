@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45d522c2-4939-4bda-9c05-6c5ca5050eab" name="Default" comment="Improved append method to accept any number entries">
+    <list default="true" id="45d522c2-4939-4bda-9c05-6c5ca5050eab" name="Default" comment="Added some documentation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_structure/Linked_lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_structure/Linked_lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,24 +95,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="md" value="1" />
           <entry key="py" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="Markdown" value="1" />
           <entry key="Python" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
+          <entry key="md" value="77" />
           <entry key="py" value="607" />
-          <entry key="txt" value="77" />
+          <entry key="txt" value="113" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="78" />
+          <entry key="Markdown" value="77" />
+          <entry key="PLAIN_TEXT" value="114" />
           <entry key="Python" value="607" />
         </counts>
       </usages-collector>
@@ -132,14 +136,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data_structure/Linked_lists.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="810">
               <caret line="54" column="21" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
               <folding>
                 <marker date="1541138329288" expanded="true" signature="202:527" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="30">
+                <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -199,6 +215,7 @@
         <option value="$PROJECT_DIR$/Data-structure/Linked-lists.py" />
         <option value="$PROJECT_DIR$/Leetcode/add-two-numbers.py" />
         <option value="$PROJECT_DIR$/Data_structure/Linked_lists.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -403,13 +420,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520355578674</updated>
-    </task>
-    <task id="LOCAL-00001" summary="configurations">
-      <created>1520355879881</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1520355879881</updated>
     </task>
     <task id="LOCAL-00002" summary="Engaged in">
       <created>1520431770714</created>
@@ -747,7 +757,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541137906139</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Added some documentation">
+      <created>1541138365724</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1541138365725</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TodoView">
@@ -837,7 +854,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Continuing with 'Learn python3' book" />
     <MESSAGE value="some oop training" />
     <MESSAGE value="End of learn python3 book" />
     <MESSAGE value="OOP workout" />
@@ -862,7 +878,8 @@
     <MESSAGE value="L: Two sum (Final test)" />
     <MESSAGE value="L: Add two numbers" />
     <MESSAGE value="Improved append method to accept any number entries" />
-    <option name="LAST_COMMIT_MESSAGE" value="Improved append method to accept any number entries" />
+    <MESSAGE value="Added some documentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some documentation" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test.py" />
@@ -1032,11 +1049,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Data_structure/Linked_lists.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
+        <state relative-caret-position="810">
           <caret line="54" column="21" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
           <folding>
             <marker date="1541138329288" expanded="true" signature="202:527" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
