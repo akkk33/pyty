@@ -8,6 +8,9 @@ class LinkedList:
     def __init__(self):
         self.head = ListNode()
 
+    def __getitem__(self, item):
+        return self.get(item)
+
     def append(self, *args):
         for val in args:
             node = ListNode(val)  # Initialise node
@@ -38,6 +41,38 @@ class LinkedList:
         else:
             return "Index out of range!"
 
+    # Insert a new node with given index and data:
+    def insert(self, index, data):
+        if 0 < index < self.length():
+            target = 0
+            current = self.head
+            parent = self.head
+            while True:
+                current = current.next
+                if index == target:
+                    baby = ListNode(data)  # The new node :)
+                    parent.next = baby  # Previous node
+                    baby.next = current  # Current node would become child node of baby
+                    break
+                target += 1
+                parent = current
+        else:
+            self.append(data)
+
+    # Modify a node using given index and given data
+    def set(self, index, data):
+        if 0 < index < self.length():
+            current = self.head
+            target = 0
+            while True:
+                current = current.next
+                if target == index:
+                    current.val = data
+                    return self.display()
+                target += 1
+        else:
+            return "Index out of range!"
+
     # Display the list nodes as a regular Python list
     def display(self):
         elements = []
@@ -46,10 +81,3 @@ class LinkedList:
             current = current.next
             elements.append(current.val)
         return elements
-
-
-newlist = LinkedList()
-newlist.append(3, 5, 23, 1)
-newlist.display()
-newlist.length()
-print(newlist.get(2))
