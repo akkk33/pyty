@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45d522c2-4939-4bda-9c05-6c5ca5050eab" name="Default" comment="Removed unused repo">
+    <list default="true" id="45d522c2-4939-4bda-9c05-6c5ca5050eab" name="Default" comment="Done add-two-numbers with my custom detailed Linked_lists class, However the original challenge requires a lot less solution. so I'm finished here and will continue to solve the problem on Leetcode ;)">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_structure/Linked_lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_structure/Linked_lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/add-two-numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/add-two-numbers.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -96,6 +95,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="gitignore" value="1" />
           <entry key="md" value="1" />
           <entry key="py" value="8" />
         </counts>
@@ -103,21 +103,23 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="Python" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
+          <entry key="gitignore" value="26" />
           <entry key="md" value="77" />
           <entry key="py" value="2103" />
-          <entry key="txt" value="148" />
+          <entry key="txt" value="363" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="77" />
-          <entry key="PLAIN_TEXT" value="149" />
+          <entry key="PLAIN_TEXT" value="390" />
           <entry key="Python" value="2103" />
         </counts>
       </usages-collector>
@@ -130,27 +132,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Leetcode/add-two-numbers.py">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="20" column="19" selection-start-line="17" selection-start-column="8" selection-end-line="20" selection-end-column="19" />
-              <folding>
-                <marker date="1541143748027" expanded="true" signature="811:817" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data_structure/Linked_lists.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
-              <folding>
-                <marker date="1541144295231" expanded="true" signature="206:242" ph="..." />
-                <marker date="1541144295231" expanded="true" signature="266:591" ph="..." />
-                <marker date="1541144295231" expanded="true" signature="2132:2494" ph="..." />
-              </folding>
+            <state relative-caret-position="663">
+              <caret line="104" column="7" selection-start-line="104" selection-start-column="7" selection-end-line="104" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -170,6 +155,7 @@
       <find>l1</find>
       <find>list</find>
       <find>a</find>
+      <find>.idea</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -211,6 +197,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Leetcode/add-two-numbers.py" />
         <option value="$PROJECT_DIR$/Data_structure/Linked_lists.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -224,7 +211,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -256,6 +243,17 @@
             <path>
               <item name="Pyty" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="Pyty" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Python3_Data_Structures" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Pyty" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Python3_Data_Structures" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Linked_List" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -421,13 +419,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520355578674</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Engaged in">
-      <created>1520434463824</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1520434463824</updated>
     </task>
     <task id="LOCAL-00005" summary="Engaged in">
       <created>1520555669923</created>
@@ -765,7 +756,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541138571348</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Done add-two-numbers with my custom detailed Linked_lists class, However the original challenge requires a lot less solution. so I'm finished here and will continue to solve the problem on Leetcode ;)">
+      <created>1541144804114</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1541144804114</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TodoView">
@@ -778,16 +776,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="26" width="1442" height="875" extended-state="7" />
+    <frame x="-1" y="26" width="1442" height="875" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49859154" weight="0.16772375" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49859154" visible="true" weight="0.16772375" />
       <window_info id="Structure" order="1" show_stripe_button="false" sideWeight="0.5009242" side_tool="true" weight="0.19027483" />
       <window_info id="DB Browser" order="2" show_stripe_button="false" weight="0.32840028" />
       <window_info id="Favorites" order="3" show_stripe_button="false" sideWeight="0.50140846" side_tool="true" weight="0.2501762" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32873276" />
-      <window_info active="true" anchor="bottom" x="1" y="337" width="1448" height="236" id="Run" order="2" sideWeight="0.49048626" visible="true" weight="0.26861703" />
+      <window_info anchor="bottom" x="1" y="337" width="1448" height="236" id="Run" order="2" sideWeight="0.49048626" weight="0.26861703" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40416667" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -855,7 +853,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="OOP workout" />
     <MESSAGE value="Started with PyQt" />
     <MESSAGE value="Moving to PyGTK" />
     <MESSAGE value="first steps in PyGTK" />
@@ -880,7 +877,8 @@
     <MESSAGE value="Added some documentation" />
     <MESSAGE value="Updated Readme" />
     <MESSAGE value="Removed unused repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed unused repo" />
+    <MESSAGE value="Done add-two-numbers with my custom detailed Linked_lists class, However the original challenge requires a lot less solution. so I'm finished here and will continue to solve the problem on Leetcode ;)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done add-two-numbers with my custom detailed Linked_lists class, However the original challenge requires a lot less solution. so I'm finished here and will continue to solve the problem on Leetcode ;)" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test.py" />
@@ -907,9 +905,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ex.txt" />
     <entry file="file://$PROJECT_DIR$/learn_python_book.py" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/essa_training.py" />
     <entry file="file://$PROJECT_DIR$/db.sqlite3" />
     <entry file="file://$PROJECT_DIR$/db.py" />
@@ -1066,8 +1061,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Data_structure/Linked_lists.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
+        <state relative-caret-position="1050">
+          <caret line="70" column="41" lean-forward="true" selection-start-line="70" selection-start-column="41" selection-end-line="70" selection-end-column="41" />
           <folding>
             <marker date="1541144295231" expanded="true" signature="206:242" ph="..." />
             <marker date="1541144295231" expanded="true" signature="266:591" ph="..." />
@@ -1078,11 +1073,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Leetcode/add-two-numbers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="20" column="19" selection-start-line="17" selection-start-column="8" selection-end-line="20" selection-end-column="19" />
+        <state relative-caret-position="915">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
           <folding>
             <marker date="1541143748027" expanded="true" signature="811:817" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="104" column="7" selection-start-line="104" selection-start-column="7" selection-end-line="104" selection-end-column="7" />
         </state>
       </provider>
     </entry>
