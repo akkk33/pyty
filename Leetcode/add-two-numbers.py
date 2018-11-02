@@ -14,76 +14,27 @@ Explanation: 342 + 465 = 807.
 
 """
 
-
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, x):
 #         self.val = x
 #         self.next = None
+import os, sys
 
-class ListNode:
-    def __init__(self, val=None):
-        self.val = val
-        self.next = None
-
-
-class LinkedList:
-    def __init__(self):
-        self.head = ListNode()
-
-    def append(self, val):
-        node = ListNode(val)
-        current = self.head
-        while current.next != None:  # Point to the last node
-            current = current.next
-        current.next = node
-
-    def length(self):
-        length = 0
-        current = self.head
-        while current.next != None:
-            length += 1
-            current = current.next
-        return length
-
-    def get(self, index):
-        if 0 <= index <= self.length():
-            target = 0
-            current = self.head
-            while True:
-                current = current.next
-                if target == index:
-                    return current.val
-                target += 1
-
-    def display(self):
-        elements = []
-        current = self.head
-        while current.next != None:
-            current = current.next
-            elements.append(current.val)
-        return elements
+sys.path.append(os.path.abspath('../Data_structure/'))
+import Linked_lists
 
 
-newlist = LinkedList()
-newlist.append(3)
-newlist.append(4)
-newlist.append(9)
-newlist.append(71)
-newlist.display()
-newlist.length()
-print(newlist.get(2))
-# class Solution:
-#     def addTwoNumbers(self, l1, l2):
-#         """
-#         :type l1: ListNode
-#         :type l2: ListNode
-#         :rtype: ListNode
-#         """
-#         result = []
-#         for key, value in enumerate(l1):
-#             result.append(l1[key] + l2[key])
-#         return result
-
+class Solution:
+    def addTwoNumbers(self, l1, l2):
+        """
+        :type l1: ListNode
+        :type l2: ListNode
+        :rtype: ListNode
+        """
+        result = []
+        for key, value in enumerate(l1):
+            result.append(l1[key] + l2[key])
+        return result
 
 # print(Solution().addTwoNumbers([5, 3, 7], [4, 2, 6]))
