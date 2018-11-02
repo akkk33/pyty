@@ -21,6 +21,17 @@ Explanation: 342 + 465 = 807.
 #         self.val = x
 #         self.next = None
 
+class ListNode:
+    def __init__(self, val=None):
+        self.val = val
+        self.next = None
+
+
+class LinkedList:
+    def __init__(self):
+        self.head = ListNode()
+
+
 class Solution:
     def addTwoNumbers(self, l1, l2):
         """
@@ -32,5 +43,6 @@ class Solution:
         for key, value in enumerate(l1):
             result.append(l1[key] + l2[key])
         return result
+
 
 print(Solution().addTwoNumbers([5, 3, 7], [4, 2, 6]))

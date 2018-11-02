@@ -1,3 +1,6 @@
 [submodule "data-structures-algorithms"]
 	path = data-structures-algorithms
 	url = https://github.com/kojino/data-structures-algorithms.git
+[submodule "Python3_Data_Structures"]
+	path = Python3_Data_Structures
+	url = https://github.com/bfaure/Python3_Data_Structures.git
