@@ -34,3 +34,19 @@ class Solution:
         :type nums2: List[int]
         :rtype: float
         """
+        if len(sorted(nums1 + nums2)) > 0:
+            if len(sorted(nums1 + nums2)) % 2 != 0:
+                return sorted(nums1 + nums2)[int(len(sorted(nums1 + nums2)) / 2)]
+            else:
+                result = (sorted(nums1 + nums2)[(int(len(sorted(nums1 + nums2)) / 2)) - 1] + sorted(nums1 + nums2)[int(len(sorted(nums1 + nums2)) / 2)]) / 2
+                return result
+
+
+nums1 = [1,2]
+nums2 = [3]
+example = Solution()
+print(example.findMedianSortedArrays(nums1, nums2))
+
+"""
+Result: Runtime: 156 ms, faster than 23.82% of Python3 online submissions for Median of Two Sorted Arrays.
+"""
