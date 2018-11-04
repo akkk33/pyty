@@ -48,6 +48,8 @@ p = "mis*is*p*."
 Output: false
 """
 
+import re
+
 
 class Solution:
     def isMatch(self, s, p):
@@ -56,3 +58,24 @@ class Solution:
         :type p: str
         :rtype: bool
         """
+        p = '^' + p + '$'
+        validate_p = re.compile('[a-z\.\*\^\$]')
+        if validate_p.match(p):
+            new_p = re.compile(p)
+            if new_p.match(s):
+                return True
+            return False
+        return False
+
+
+attempt = Solution()
+print(attempt.isMatch('aa', 'a'))  # False
+print(attempt.isMatch('aa', 'a*'))  # True
+print(attempt.isMatch('ab', '.*'))  # True
+print(attempt.isMatch('aab', 'c*a*b'))  # True
+print(attempt.isMatch('mississippi', 'mis*is*p*.'))  # False
+
+"""
+First attempt finished successfully with Runtime: 120 ms, faster than 23.26% of Python3 online submissions for Regular Expression Matching.
+However I'm going to work on giving more performance
+"""
