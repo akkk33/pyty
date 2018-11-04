@@ -59,12 +59,9 @@ class Solution:
         :rtype: bool
         """
         p = '^' + p + '$'
-        validate_p = re.compile('[a-z\.\*\^\$]')
-        if validate_p.match(p):
-            new_p = re.compile(p)
-            if new_p.match(s):
-                return True
-            return False
+        new_p = re.compile(p)
+        if new_p.match(s):
+            return True
         return False
 
 
@@ -78,4 +75,6 @@ print(attempt.isMatch('mississippi', 'mis*is*p*.'))  # False
 """
 First attempt finished successfully with Runtime: 120 ms, faster than 23.26% of Python3 online submissions for Regular Expression Matching.
 However I'm going to work on giving more performance
+
+Second attempt resulted in increasing speed by only 3% !! Seeking new approach
 """
