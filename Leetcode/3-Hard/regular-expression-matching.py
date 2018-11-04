@@ -58,9 +58,7 @@ class Solution:
         :type p: str
         :rtype: bool
         """
-        p = '^' + p + '$'
-        new_p = re.compile(p)
-        if new_p.match(s):
+        if re.match('^' + r'{}'.format(p) + '$', s):
             return True
         return False
 
@@ -76,5 +74,8 @@ print(attempt.isMatch('mississippi', 'mis*is*p*.'))  # False
 First attempt finished successfully with Runtime: 120 ms, faster than 23.26% of Python3 online submissions for Regular Expression Matching.
 However I'm going to work on giving more performance
 
-Second attempt resulted in increasing speed by only 3% !! Seeking new approach
+Second attempt resulted in increasing speed by only 3% !! Seeking new approach.
+
+Third attempt: Runtime: 96 ms, faster than 31.70% of Python3 online submissions for Regular Expression Matching.
+
 """
