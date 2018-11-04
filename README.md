@@ -8,3 +8,4 @@ This is my main repo for studying python.
 
 [Python data structure](https://github.com/bfaure/Python3_Data_Structures)
 
+[Udacity: Intro to computer science](https://classroom.udacity.com/courses/cs101)
